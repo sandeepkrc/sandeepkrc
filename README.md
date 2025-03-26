@@ -2,24 +2,17 @@
 I'm a Security Engineer & Full-Stack Developer passionate about building scalable applications, securing APIs, and optimizing authentication systems. I specialize in Django, Django Rest Framework (DRF), PostgreSQL, and cybersecurity.
 
 🔥 What You'll Find Here
+
 🔹 Secure API Development – Implementing OWASP best practices in REST APIs
+
 🔹 Authentication Systems – JWT, OAuth2.0, Redis caching, Kafka-based event logging
+
 🔹 Cybersecurity Projects – Security scanning, XSS testing, GraphQL security analysis
+
 🔹 Automation & Tooling – Custom security tools and automation scripts
+
 🔹 Full-Stack Applications – Scalable projects using Django, React, and PostgreSQL
 
-🚀 Featured Projects
-🔹 App Radar (Security Scanning Platform)
-Automated Bandit security scans integrated with CI/CD pipelines
-
-Tracks security issues and re-evaluates fixes on the next deployment
-
-Provides developer and app owner dashboards for issue tracking
-
-🔹 Project 25-25 (Scalable Authentication System)
-Django + Redis + Kafka + JWT for secure authentication
-
-Rate limiting and OAuth2.0 integration
 
 Fully Dockerized deployment
 <!--
