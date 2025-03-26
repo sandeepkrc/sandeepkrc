@@ -13,8 +13,6 @@ I'm a Security Engineer & Full-Stack Developer passionate about building scalabl
 
 🔹 Full-Stack Applications – Scalable projects using Django, React, and PostgreSQL
 
-
-Fully Dockerized deployment
 <!--
 **sandeepkrc/sandeepkrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
